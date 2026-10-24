@@ -1,0 +1,6 @@
+transformers
+sentence-transformers
+fastapi
+uvicorn[standard]
+httpx
+pytest
